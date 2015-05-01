@@ -7,6 +7,10 @@
 # The reason for this script is ZTE did not grant us the right to redistribute
 # this modem firmware for use in the community builds : http://builds.firefoxos.mozfr.org
 #
+# Credits :
+# - original procedure from micgeri971 : https://forums.mozfr.org/viewtopic.php?f=33&t=122597
+# - improvements from Florent Fayolle
+#
 # This script is still quick and dirty
 # LGPL v3 license
 # Mossroy
